@@ -21,6 +21,7 @@ body {
     text-align: right;
     border: none;
     color: #33b5e5;
+    outline: none;
 }
 #keys {
     display: grid;
